@@ -1,0 +1,57 @@
+
+Package: SmartX
+Type: Package
+Title: Spatial-Multiomic Analysis and Research Toolkit for eXploration
+Version: 0.1.0
+Authors@R: c(
+    person("Haitao", "Xiang", 
+           email = "dr.haitaoxiang@gmail.com", 
+           role = c("aut", "cre"))
+    )
+Description: SMART-X (Spatial-Multiomic Analysis and Research Toolkit for 
+    eXploration) is a modular R framework for integrative analysis of 
+    single-cell and spatial transcriptomics data. It provides streamlined 
+    workflows for visualization, differential expression analysis, Gene 
+    Ontology enrichment, spatial pattern discovery, and cell-cell 
+    communication analysis.
+License: MIT + file LICENSE
+URL: https://github.com/Eric-htxiang/SmartX
+BugReports: https://github.com/Eric-htxiang/SmartX/issues
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 4.0.0)
+Imports:
+    Seurat (>= 4.0.0),
+    SeuratObject,
+    dplyr (>= 1.0.0),
+    ggplot2 (>= 3.3.0),
+    methods,
+    stats,
+    utils,
+    grid,
+    ggrepel,
+    patchwork,
+    reshape2,
+    pals
+Suggests:
+    CellChat,
+    ComplexHeatmap,
+    enrichplot,
+    clusterProfiler,
+    org.Mm.eg.db,
+    org.Hs.eg.db,
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0),
+    covr
+RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
+VignetteBuilder: knitr
+biocViews: 
+    SingleCell, 
+    Spatial,
+    GeneExpression, 
+    Visualization,
+    DifferentialExpression
+
