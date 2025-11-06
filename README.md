@@ -35,6 +35,9 @@ Consistent styling across all plots
 Customizable color schemes
 PDF output with adjustable dimensions
 
+
 **INSTALL**
+
 if (!require("devtools")) install.packages("devtools")
+
 devtools::install_github("Eric-htxiang/SmartX")
