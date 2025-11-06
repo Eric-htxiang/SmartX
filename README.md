@@ -1,7 +1,8 @@
 
 <img width="3693" height="1380" alt="image" src="https://github.com/user-attachments/assets/1e0baa91-8bd1-42f6-81ee-8e333fae17b8" />
-Spatial-Multiomic Analysis and Research Toolkit for eXploration
-SMART-X is a modular R framework for integrative analysis of single-cell and spatial transcriptomics data, it transforms complex analytical workflows into simple, reproducible one-line commands while maintaining publication-quality output.
+
+**Spatial-Multiomic Analysis and Research Toolkit for eXploration
+**SMART-X is a modular R framework for integrative analysis of single-cell and spatial transcriptomics data, it transforms complex analytical workflows into simple, reproducible one-line commands while maintaining publication-quality output.
 
 **Key Features
 **📊 Single-Cell Analysis
