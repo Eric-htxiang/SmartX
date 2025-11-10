@@ -1,3 +1,3 @@
-# SmartX (development version)
+# SmartX 0.1.0
 
 * Initial CRAN submission.
