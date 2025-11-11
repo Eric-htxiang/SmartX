@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="man/figures/logo.png" height="200" />
+<img src="man/figures/logo.png" height="240" />
 
-# **SmartX**
-
-### **Spatial-Multiomic Analysis and Research Toolkit for eXploration**
+### **SmartX : Spatial-Multiomic Analysis and Research Toolkit for eXploration**
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/Eric-htxiang/SmartX/workflows/R-CMD-check/badge.svg)](https://github.com/Eric-htxiang/SmartX/actions)
