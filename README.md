@@ -4,7 +4,7 @@
 
 # **SmartX**
 
-### **A Comprehensive Toolkit for Single-Cell and Spatial Transcriptomics Analysis**
+### **Spatial-Multiomic Analysis and Research Toolkit for eXploration**
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/Eric-htxiang/SmartX/workflows/R-CMD-check/badge.svg)](https://github.com/Eric-htxiang/SmartX/actions)
