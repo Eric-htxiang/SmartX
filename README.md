@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="man/figures/logo.png" height="40" />
+<img src="man/figures/logo.png" height="280" />
 
 ### **SmartX : Spatial-Multiomic Analysis and Research Toolkit for eXploration**
 
