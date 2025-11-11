@@ -140,7 +140,7 @@ plot_DEG_heatmap(deg_results, top_n = 50)
 
 ```r
 # Run GO enrichment
-go_results <- run_GO(
+go_results <- run_GOanalysis(
   geneList = deg_table$gene,
   organism = "human",
   pvalueCutoff = 0.05,
