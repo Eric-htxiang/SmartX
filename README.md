@@ -72,7 +72,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) {
     install.packages("BiocManager")
 }
 
-BiocManager::install(c("DESeq2", "clusterProfiler", "org.Hs.eg.db", "org.Mm.eg.db"))
+BiocManager::install(c("ComplexHeatmap", "BiocNeighbors", "DESeq2", "clusterProfiler", "org.Hs.eg.db", "org.Mm.eg.db"))
 
 # Then install SmartX
 devtools::install_github("Eric-htxiang/SmartX")
